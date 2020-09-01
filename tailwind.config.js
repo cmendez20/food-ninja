@@ -11,6 +11,10 @@ module.exports = {
       },
       fontFamily: {
         body: ['Nunito']
+      },
+      transitionProperty: {
+        'height': 'height',
+        'spacing': 'margin-bottom',
       }
     },
   },
